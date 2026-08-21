@@ -366,4 +366,6 @@ ML-For-Beginners.Rproj
 venv
 
 6-NLP/data/Hotel_Reviews.csv
+6-NLP/data/Hotel_Reviews_NLP.csv
+7-TimeSeries/1-Introduction/data_assignment/
 .ipynb_checkpoints/
